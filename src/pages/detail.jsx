@@ -3,7 +3,7 @@ import React from "react";
 const DetailView = () => {
   return (
     <main>
-      <h1>Detail</h1>
+      <h1>{""}</h1>
     </main>
   );
 }
